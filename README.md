@@ -7,6 +7,8 @@
 
 🎓 **Bachelor of Science (BSc), Computer Science** (class of 2015) at **University of the Philippines Los Baños**
 
+✊ **Research and Editorial Committee Head** at **Institute for Nationalist Studies**
+
 [![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgagno)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
