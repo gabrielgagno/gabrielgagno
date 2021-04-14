@@ -1,6 +1,6 @@
 # Gabriel John P. Gagno
 *Software engineer, History graduate student, National democratic activist*
-
+### Basic Information
 🔭 **Junior Technology Development/Management Assistant** at the **University of the Philippines Diliman**
 
 🎓 **Master of Arts (MA), History** (ongoing) at **University of the Philippines Diliman**
@@ -9,6 +9,11 @@
 
 ✊ **Research and Editorial Committee Head** at **Institute for Nationalist Studies**
 
+### Tools and Technologies
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/electron.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codeigniter.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mariadb.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/serverless.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" /> 
+
+
+### GitHub Stats
 [![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgagno)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
