@@ -1,6 +1,9 @@
 ## Gabriel John P. Gagno
 *Software engineer, History graduate student, National democratic activist*
 
+## Current Employment
+**University of the Philippines Diliman**, Junior Technology Development/Management Assistant
+
 ## Education
 ### University of the Philippines Diliman
 **Master of Arts (MA)**, History (2017 - present)
