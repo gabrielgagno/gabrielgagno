@@ -1,5 +1,12 @@
-### Hi there 👋
+## Gabriel John P. Gagno
+*Software engineer, History graduate student, National democratic activist*
 
+## Education
+### University of the Philippines Diliman
+**Master of Arts (MA)**, History (2017 - present)
+
+### University of the Philippines Los Baños
+**Bachelor of Science (BSc)**, Computer Science (2011 - 2015)
 <!--
 **gabrielgagno/gabrielgagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
