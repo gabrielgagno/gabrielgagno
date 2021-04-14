@@ -1,4 +1,4 @@
-## Gabriel John P. Gagno
+# Gabriel John P. Gagno
 *Software engineer, History graduate student, National democratic activist*
 
 ## Current Employment
