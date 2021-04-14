@@ -2,7 +2,9 @@
 *Software engineer, History graduate student, National democratic activist*
 
 *Junior Technology Development/Management Assistant* at the **University of the Philippines Diliman**
+
 **Master of Arts (MA), History** (ongoing) at **University of the Philippines Diliman**
+
 **Bachelor of Science (BSc), Computer Science** (class of 2015) at **University of the Philippines Los Baños**
 
 [![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgagno)](https://github.com/anuraghazra/github-readme-stats)
