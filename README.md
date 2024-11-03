@@ -1,9 +1,9 @@
 # Gabriel John P. Gagno
-*Instructor of History, Software engineer, History graduate student, National democratic activist*
+*Instructor of History*
 ### Basic Information
 🔭 **Instructor of History** at the **University of the Philippines Visayas**
 
-<img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/University_of_The_Philippines_seal.svg/800px-University_of_The_Philippines_seal.svg.png" /> **Master of Arts (MA), History** (ongoing) at **University of the Philippines Diliman**
+<img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/University_of_The_Philippines_seal.svg/800px-University_of_The_Philippines_seal.svg.png" /> **Master of Arts (MA), History** (class of 2024) at **University of the Philippines Diliman**
 
 <img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/University_of_The_Philippines_seal.svg/800px-University_of_The_Philippines_seal.svg.png" /> **Bachelor of Science (BSc), Computer Science** (class of 2015) at **University of the Philippines Los Baños**
 
