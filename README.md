@@ -1,7 +1,7 @@
 # Gabriel John P. Gagno
 
 ### Basic Information
-**Instructor of History** at the **University of the Philippines Visayas**
+**Assistant Professor of History** at the **University of the Philippines Visayas**
 
 **Master of Arts (MA) History** (class of 2024) at **University of the Philippines Diliman**
 
